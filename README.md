@@ -4,7 +4,7 @@
 
 Meu nome é Ana Beatriz, tenho 18 anos, estou fazendo 3º ano do Ensino Médio na escola técnica SESI SENAI, onde curso desenvolvimentos de sistemas.
 
-Gosto da área da tecnologia, principalmente saúde, na qual desejo seguir profissionalmente.
+Acho a tecnologia interessante, e amo principalmente a saúde, na qual desejo seguir profissionalmente.
 
 <p align="left">
     <a href="https://github.com/anaassunca0">
